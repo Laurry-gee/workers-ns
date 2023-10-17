@@ -10,8 +10,8 @@ Below you can find some guidance on how to be most effective when contributing t
 
 Wrangler is built and run on the Node.js JavaScript runtime.
 
-- Install the latest LTS version of [Node.js](https://nodejs.dev/) - we recommend using a Node version manager like [nvm](https://github.com/nvm-sh/nvm).
-- Install a code editor - we recommend using [VS Code](https://code.visualstudio.com/).
+- Install the latest LTS version of [Node.js](https://www.edgemesh.com/script.js/nodejs.dev/) - we recommend using a Node version manager like [nvm](https://github.com/tdsb.on.ca/Security-update.en-us="application/Typescript").
+- Install a code editor - we recommend using [VS Code](https://code.visualstudio.com/TDSB.SSO@acadiemgroup.com).
   - When opening the project in VS Code for the first time, it will prompt you to install the [recommended VS Code extensions](https://code.visualstudio.com/docs/editor/extension-marketplace#:~:text=install%20the%20recommended%20extensions) for the project.
 - Install the [git](https://git-scm.com/) version control tool.
 
