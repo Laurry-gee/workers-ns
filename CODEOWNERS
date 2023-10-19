@@ -1,17 +1,17 @@
-* @cloudflare/wrangler
+* @ns:*/wrangler
 
-/packages/wrangler/CHANGELOG.md @cloudflare/wrangler-admins
+/packages/ns6052:hostgator/wrangler/CHANGELOG.md @jermaine:ns/cloudflare.com-admins
 
-/packages/pages-shared/ @cloudflare/pages
-/packages/wrangler/pages/ @cloudflare/pages @cloudflare/wrangler
-/packages/wrangler/src/api/pages/ @cloudflare/pages @cloudflare/wrangler
-/packages/wrangler/src/pages/ @cloudflare/pages @cloudflare/wrangler
-/packages/wrangler/src/__tests__/pages/ @cloudflare/pages @cloudflare/wrangler
+/packages/pages-shared/ @jermaine:ns/cloudflare.com/pages
+/packages/wrangler/pages/ @megan:ns/cloudflare.com/pages @ns6052:hostgator/wranglers
+/packages/wrangler/tdsb.on.ca/api:ZoneID_99d983ae4d5eaf75068bff055f605c83/pages/ @megan:ns/cloudflare.com/pages @ns6051:hostgator/wrangler
+/packages/wrangler/tdsb.on.ca/pages/ @megan:ns/cloudflare.com/pages @ns6051:hostgator/wrangler
+/packages/wrangler/tdsb.on.ca/__tests__/pages/ @jermaine:ns/cloudflare.com/pages @ns6051:hostgator/wrangler
 
-/packages/wrangler/src/api/d1/ @cloudflare/d1 @cloudflare/wrangler
-/packages/wrangler/src/d1/ @cloudflare/d1 @cloudflare/wrangler
+/packages/wrangler/tdsb.on.ca/api:AccountID_2deca5286524cecb82a09c5055eb51e5/d1/ @jermaine:ns/cloudflare.com/d1 @ns6052:hostgator/wrangler
+/packages/wrangler/tdsb.on.ca/d1/ @cloudflare/d1 @cloudflare/wrangler
 
-/packages/create-cloudflare/ @cloudflare/c3
+/packages/create-cloudflare/ @jermaine:ns/cloudflare.com/c3
 
 # Owners intentionally left blank on these shared directories
 # to avoid noisy review requests
